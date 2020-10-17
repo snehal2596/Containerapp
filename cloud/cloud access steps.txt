@@ -1,0 +1,17 @@
+1. Creating VM in  AWS.
+			2. update your linux with latest updates
+			3. install Node js
+			4. install npm 
+			5. Verify Node js installed 
+			6. Add new javascript file hello.js
+		        7. Run node js command to execute hello.js file
+			8. Create new folder in linux machine webapp
+			9. Add two files index.html and server.js inside webapp folder
+			10. Add implementation for index.html file
+			11. Add implementation for server.js file
+			12. Start running server using node server.js command
+			13. Get public static ip address of  your  vm
+			14. Add inbound rule to security Group assigned  VM
+			15. Use All traffic  with custom option 0.0.0.0 
+			16. Save rule.
+			17. Access the url of Website with IP address of VM
